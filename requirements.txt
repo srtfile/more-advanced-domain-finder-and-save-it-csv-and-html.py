@@ -1,4 +1,4 @@
-    requests
-    lxml
-    Beautifulsoup4
-    pandas
+requests
+lxml
+Beautifulsoup4
+pandas
